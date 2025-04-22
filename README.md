@@ -8,7 +8,8 @@
 
 <h1>Pagina Sobre (Andamento)</h1>
 
-![image](https://github.com/user-attachments/assets/3139ef55-817e-4740-8eb9-f521c6a36f64)
+![Uploading image.png…]()
+
 
 <h1>Cardapio (Andamento)</h1>
 
